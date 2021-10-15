@@ -8,3 +8,10 @@
 
 **Link(s) to work**: [Code Wars: Be Concise IV](https://www.codewars.com/kata/reviews/57046e21adb0372def00003d/groups/6168424c56e9fc000123a7a0)
 
+### Day 2: October 15, 2021
+
+**Today's Progress**: I completed the Who is going to pay for the wall? kata on CodeWars
+
+**Thoughts**: I probably could've refactored this one more
+
+**Link(s) to work**: [Who is going to pay for the wall? (JavaScript)](https://www.codewars.com/kata/reviews/595797121552c5ed480010fc/groups/60331a7c154fce0001ee8b98)
