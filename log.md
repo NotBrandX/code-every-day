@@ -15,3 +15,9 @@
 **Thoughts**: I probably could've refactored this one more
 
 **Link(s) to work**: [Who is going to pay for the wall? (JavaScript)](https://www.codewars.com/kata/reviews/595797121552c5ed480010fc/groups/60331a7c154fce0001ee8b98)
+
+### Day 2: October 15, 2021
+
+**Today's Progress**: I worked on my portfolio for a while
+
+**Thoughts**: The portfolio is not turning out the way that I imagined it. Getting CSS to do what I want is proving to be a real challenge and I've ended up simplifying things a lot. I think I might start over from scratch.
