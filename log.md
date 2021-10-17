@@ -16,7 +16,7 @@
 
 **Link(s) to work**: [Who is going to pay for the wall? (JavaScript)](https://www.codewars.com/kata/reviews/595797121552c5ed480010fc/groups/60331a7c154fce0001ee8b98)
 
-### Day 2: October 15, 2021
+### Day 3: October 16, 2021
 
 **Today's Progress**: I worked on my portfolio for a while
 
