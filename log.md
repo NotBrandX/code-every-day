@@ -27,3 +27,9 @@
 **Today's Progress**: I continued to work on my portfolio
 
 **Thoughts**: I ran into more issues with CSS. The glitch effect on the h1 tag looks fine on a desktop but the text goes off the screen on a mobile view. And I created a card on the projects page, but if you try to add a second card then it becomes impossible to scroll down on the page. I'll probably have to find a different way to create the project cards
+
+### Day 5: October 18, 2021
+
+**Today's Progress**: Worked on my portfolio
+
+**Thoughts**: I got tired of all the CSS issues that were piling up and decided to delete everything and start over
