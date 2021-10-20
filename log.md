@@ -33,3 +33,7 @@
 **Today's Progress**: Worked on my portfolio
 
 **Thoughts**: I got tired of all the CSS issues that were piling up and decided to delete everything and start over
+
+### Day 6: October 19, 2021
+
+**Today's Progress**: Worked on my portfolio
