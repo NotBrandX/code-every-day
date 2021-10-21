@@ -37,3 +37,9 @@
 ### Day 6: October 19, 2021
 
 **Today's Progress**: Worked on my portfolio
+
+### Day 7: October 20, 2021
+
+**Today's Progress**: Worked on my portfolio
+
+**Thoughts**: I created cards on my projects page, but it doesn't look right if you look at the page from a mobile view
