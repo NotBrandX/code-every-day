@@ -43,3 +43,7 @@
 **Today's Progress**: Worked on my portfolio
 
 **Thoughts**: I created cards on my projects page, but it doesn't look right if you look at the page from a mobile view
+
+### Day 8: October 21, 2021
+
+**Today's Progress**: Did a couple of katas on Codewars
