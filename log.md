@@ -51,3 +51,7 @@
 ### Day 9: October 22, 2021
 
 **Today's Progress**: Worked on portfolio
+
+### Day 10: October 23, 2021
+
+**Today's Progress**: Did some katas on Codewars
