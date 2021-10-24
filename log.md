@@ -55,3 +55,7 @@
 ### Day 10: October 23, 2021
 
 **Today's Progress**: Did some katas on Codewars
+
+### Day 11: October 24, 2021
+
+**Today's Progress**: I deleted my repo for my portfolio and used a template to create and deploy a new one
