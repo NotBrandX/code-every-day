@@ -59,3 +59,11 @@
 ### Day 11: October 24, 2021
 
 **Today's Progress**: I deleted my repo for my portfolio and used a template to create and deploy a new one
+
+**Link(s) to work**: [Brandondoris.com](https://www.brandondoris.com)
+
+### Day 12: October 24, 2021
+
+**Today's Progress**: I started working on my final project for General Assembly
+
+**Thoughts**: It seems like the GitHub oauth is working because the test page that I set up loads when I'm logged in as the superuser. But when I log out of the superuser account and try to be authenticated through GitHub I get an error that says "SocialApp matching query does not exist." 
