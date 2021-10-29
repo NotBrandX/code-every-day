@@ -75,3 +75,7 @@
 ### Day 14: October 27, 2021
 
 **Today's Progress**: I continued working on my final project. The post and comment system works and users can upload files. I had trouble when I tried to deploy it to heroku 
+
+### Day 15: October 28, 2021
+
+**Today's Progress**: Worked on my final project
