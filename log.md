@@ -83,3 +83,7 @@
 ### Day 16: October 29, 2021
 
 **Today's Progress**: Worked on my final project. The homepage displays all the posts now and the posts have a modal to post comments on them.
+
+### Day 17: October 30, 2021
+
+**Today's Progress**: Worked on my final project. The log in and sign up functions are working. I just need to add the ability to update user info now.
